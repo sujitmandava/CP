@@ -39,7 +39,7 @@ int main()
 
     for (int i = 0; i < test_cases; i++)
     {
-        // cout << "Case #" << i + 1 << ": "; // For Google contests
+        // cout << "Case #" << i + 1 << ": ";
         solve();
         cout << "\n";
     }
